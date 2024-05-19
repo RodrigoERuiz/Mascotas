@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9noe5st9Zb+fSqyBqmtquALnymxGy0MGY2hu8Xw/vKD3XHt/VN90Ze6cSeVj/w4Uy4cT5yIythOl+oXerxKKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RODRIGO\\Desktop\\Parcial Mascotas\\Parcial Mascotas\\Bibliotecas de clases\\Bibliotecas de clases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
